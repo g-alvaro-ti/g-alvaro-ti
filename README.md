@@ -6,10 +6,12 @@ Atualmente, estou desenvolvendo conhecimentos em desenvolvimento front-end, prog
 
 ### Tecnologias
 
+**Desenvolvimento Web** <br>
 [![Web](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-<br>
-[![Back-end](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
-<br>
-[![Outros](https://skillicons.dev/icons?i=arduino,python,lua)](https://skillicons.dev)
+
+**Linguagens de Programação** <br>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,lua)](https://skillicons.dev)
+
+### GitHub
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g-alvaro-ti\&theme=holi-theme\&locale=pt)](https://git.io/streak-stats)
